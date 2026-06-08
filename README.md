@@ -109,7 +109,7 @@ An interactive Tableau dashboard was created to visualize:
 
 ## Dashboard Preview
 
-![Heart-Disease-Prediction-and-Analysis](Dashboard screenshot.png)
+![Dashboard screenshot.png]
 
 ### Interactive Dashboard Features
 
@@ -123,6 +123,7 @@ An interactive Tableau dashboard was created to visualize:
 
 The Tableau dashboard provides an interactive visual representation of cardiovascular disease risk factors and patient characteristics, supporting healthcare decision-making through data-driven insights.
 
+---
 
 Developed as part of the Fortray Global Services Limited Data Analyst Capstone Project.
 
