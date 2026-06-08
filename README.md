@@ -109,7 +109,7 @@ An interactive Tableau dashboard was created to visualize:
 
 ## Dashboard Preview
 
-![Dashboard screenshot.png]
+![Dashboard](Dashboard%20screenshot.png)
 
 ### Interactive Dashboard Features
 
