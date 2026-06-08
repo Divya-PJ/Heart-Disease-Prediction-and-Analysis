@@ -1,7 +1,5 @@
-# Heart-Disease-Prediction-and-Analysis
-## Cardiovascular Disease Prediction using Machine Learning and Tableau Dashboard Visualization.
-
 # Heart Disease Prediction and Analysis
+## Cardiovascular Disease Prediction using Machine Learning and Tableau Dashboard Visualization.
 
 ## Project Overview
 
@@ -108,6 +106,23 @@ An interactive Tableau dashboard was created to visualize:
 * Logistic Regression demonstrated strong predictive capability for disease detection.
 
 ---
+
+## Dashboard Preview
+
+![Heart-Disease-Prediction-and-Analysis](Dashboard screenshot.png)
+
+### Interactive Dashboard Features
+
+* Diseased vs Healthy Patient Distribution
+* Heart Disease Analysis by Gender
+* CVD Occurrence Across Age Groups
+* Cholesterol Level Comparison
+* Resting Blood Pressure Analysis
+* Thalassemia and Heart Disease Relationship
+* Chest Pain Type and Heart Disease Analysis
+
+The Tableau dashboard provides an interactive visual representation of cardiovascular disease risk factors and patient characteristics, supporting healthcare decision-making through data-driven insights.
+
 
 Developed as part of the Fortray Global Services Limited Data Analyst Capstone Project.
 
